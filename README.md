@@ -293,6 +293,8 @@ Aplicamos la ley de ohm I=V/R => R=V/I => R=33/0.0015 => R=22*10^3 Ω => sus co
 
 ![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/Fig.4-24.png)
 
+<img src="https://latex.codecogs.com/svg.latex?0.90&space;\times&space;0.70&space;=&space;0.63&space;\\&space;P&space;=&space;1008\&space;W&space;=&space;1.35\&space;hp" title="0.90 \times 0.70 = 0.63 \\ P = 1008\ W = 1.35\ hp" />
+
 65.Si la eficiencia total de una radiotransmisora es de <img src="https://latex.codecogs.com/svg.latex?55\&space;%" title="55\ %" /> y transmite a <img src="https://latex.codecogs.com/svg.latex?35\&space;kW" title="35\ kW" /> por 24 h/día, calcule el coste de energía que usa cada día a <img src="https://latex.codecogs.com/svg.latex?\$\&space;0.09/kWh" title="\$\ 0.09/kWh" />
 
 <img src="https://latex.codecogs.com/gif.latex?P.ent&space;=&space;\frac{P.sal}{\eta}&space;\cdot&space;100&space;\\&space;\\&space;P.ent&space;=&space;\frac{35}{55}&space;\cdot&space;100&space;=&space;63.63\&space;kW&space;\\&space;\\&space;W&space;=&space;63.63(24)&space;=&space;1527.12\&space;kWh&space;\\&space;costo&space;=&space;(1527.12\&space;kWh)&space;\cdot&space;(\$&space;0.09/kWh)&space;=&space;\$&space;137.44" title="P.ent = \frac{P.sal}{\eta} \cdot 100 \\ \\ P.ent = \frac{35}{55} \cdot 100 = 63.63\ kW \\ \\ W = 63.63(24) = 1527.12\ kWh \\ costo = (1527.12\ kWh) \cdot (\$ 0.09/kWh) = \$ 137.44" />
