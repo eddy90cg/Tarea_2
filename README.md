@@ -295,6 +295,13 @@ Aplicamos la ley de ohm I=V/R => R=V/I => R=33/0.0015 => R=22*10^3 Ω => sus co
 
 65.Si la eficiencia total de una radiotransmisora es de <img src="https://latex.codecogs.com/svg.latex?55\&space;%" title="55\ %" /> y transmite a <img src="https://latex.codecogs.com/svg.latex?35\&space;kW" title="35\ kW" /> por 24 h/día, calcule el coste de energía que usa cada día a <img src="https://latex.codecogs.com/svg.latex?\$\&space;0.09/kWh" title="\$\ 0.09/kWh" />
 
+P.ent = \frac{P.sal}{\eta} \cdot 100 \\
+\\
+P.ent = \frac{35}{55} \cdot 100 = 63.63\ kW \\
+\\
+W = 63.63(24) = 1527.12\ kWh \\
+costo = (1527.12\ kWh) \cdot (\$ 0.09/kWh) = \$ 137.44
+
 67.Un resistor que depende de voltaje tiene la característica <img src="https://latex.codecogs.com/svg.latex?I\&space;-\&space;V" title="I\ -\ V" /> de la figura 4-41
 
 ![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/Fig.4-41.png)
