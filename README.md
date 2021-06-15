@@ -148,10 +148,11 @@ CAPITULO 4.
 
 63.Un motor de cd de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> opera a través de una caja de engranajes (figura 4-24). Si la potencia de la bomba es de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" /> , la caja de engranajes tiene una eficiencia de <img src="https://latex.codecogs.com/svg.latex?75\&space;%" title="75\ %" /> y la potencia de la entrada al motor es de <img src="https://latex.codecogs.com/svg.latex?1600\&space;W" title="1600\ W" /> , determine los caballos de potencia de salida del motor.
 
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/Fig.4-24.png)
 
+65.Si la eficiencia total de una radiotransmisora es de <img src="https://latex.codecogs.com/svg.latex?55\&space;%" title="55\ %" /> y transmite a <img src="https://latex.codecogs.com/svg.latex?35\&space;kW" title="35\ kW" /> por 24 h/día, calcule el coste de energía que usa cada día a <img src="https://latex.codecogs.com/svg.latex?\$\&space;0.09/kWh" title="\$\ 0.09/kWh" />
 
-    
-
+67.Un resistor que depende de voltaje tiene la característica <img src="https://latex.codecogs.com/svg.latex?I\&space;-\&space;V" title="I\ -\ V" /> de la figura 4-41
 
 
 
