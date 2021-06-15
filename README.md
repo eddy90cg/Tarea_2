@@ -137,9 +137,6 @@ Resolución.-
 
 se esta midiendo un corto circuito y el dispositvo debe sonar una alrma ya que los polos estan invertidos. // Resp.
 
-
-
-
 # CAP 4.
 
 1. Para el circuito de la figura determine la corriente I para cada uno de los sisguietes incicisos . Exprese la respuesta en la unidad mas apropiada depende el caso.
@@ -155,7 +152,32 @@ d. E= 10 V, R= 2.5 MΩ -> R= 2 500 0000 Ω  => I=V/R => I=10/2500000 => I= 4*1
 e. E= 7.5 V, R= 2.5*10^3 Ω => I=V/R => I=7.5/2.5*10^3 => I= 3*10^-3 A.
 F. E= 12 KV -> E=12 000 v , R= 2 MΩ => I=V/R => I=12 000/2 000 000 => I= 6*10^-3 A.     // Resp.
 
+3. Para el circuito de la figura calucle V, para cada uno de los siguientes linterales.
 
+Resolución.-
+
+a.  I=1 mA, R=40 kΩ => I.R=V => V=0.001*40 000 => V= 40 V.
+b.  I=10 μA, R=30 kΩ => I.R=V => V=0.000 001*30 000 => V= 0.03 V.
+c.  I=10 mA, R=4*10^4 Ω => I.R=V => V=0.0010*40 000 => V=  40 V.
+d.  I=12 A, R=3*10^-2 Ω => I.R=V => V=12*0.03 => V= 0.36 V.       // Resp.
+
+5. Cuando se una lámpara eléctrica a un contacto de pared de 120 V, requiere 1.25 A. ¿ Cuál es la corriente demandada?
+
+Resolución .-
+
+Aplicamos la ley de ohm I=V/R => R=V/I => R= 120/1.25 => R= 96 Ω // Resp.
+
+7. ¿Cuánto de voltaje se puede aplicar a un resistor 560 Ω , si la corriente no debe exceder de 50 mA.?
+
+Resolución .-
+
+Aplicamos la ley de ohm I=V/R => V=I*R => V=500*0.0050 => V= 5/2 V. //Resp.
+
+11. La corriente atraves del resistor es de 15 mA. Si la caida de voltaje en el resistor es de 33 V. ¿ Cuál es su código de colores?
+
+Resolución .-
+
+Aplicamos la ley de ohm I=V/R => R=V/I => R=33/0.0015 => R=22*10^3 Ω => sus codigos de colores es: Rojo - Rojo - Naranja - Negro  // Resp.
 
 19. La figura representa la grafica I-V para el circuito de la figura ¿Cuál es el valor de R?
 
@@ -271,23 +293,15 @@ F. E= 12 KV -> E=12 000 v , R= 2 MΩ => I=V/R => I=12 000/2 000 000 => I= 6*10^
 
 65.Si la eficiencia total de una radiotransmisora es de <img src="https://latex.codecogs.com/svg.latex?55\&space;%" title="55\ %" /> y transmite a <img src="https://latex.codecogs.com/svg.latex?35\&space;kW" title="35\ kW" /> por 24 h/día, calcule el coste de energía que usa cada día a <img src="https://latex.codecogs.com/svg.latex?\$\&space;0.09/kWh" title="\$\ 0.09/kWh" />
 
-<img src="https://latex.codecogs.com/svg.latex?P.ent&space;=&space;\frac{P.sal}{\eta}&space;\cdot&space;100&space;\\&space;\\&space;P.ent&space;=&space;\frac{35}{55}&space;\cdot&space;100&space;=&space;63.63\&space;kW&space;\\&space;\\&space;W&space;=&space;63.63(24)&space;=&space;1527.12\&space;kWh&space;\\&space;costo&space;=&space;(1527.12\&space;kWh)&space;\cdot&space;(\$&space;0.09/kWh)&space;=&space;\$&space;137.44" title="P.ent = \frac{P.sal}{\eta} \cdot 100 \\ \\ P.ent = \frac{35}{55} \cdot 100 = 63.63\ kW \\ \\ W = 63.63(24) = 1527.12\ kWh \\ costo = (1527.12\ kWh) \cdot (\$ 0.09/kWh) = \$ 137.44" />
-
 67.Un resistor que depende de voltaje tiene la característica <img src="https://latex.codecogs.com/svg.latex?I\&space;-\&space;V" title="I\ -\ V" /> de la figura 4-41
 
 ![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/Fig.4-41.png)
 
    a. En <img src="https://latex.codecogs.com/svg.latex?V&space;=&space;25V" title="V = 25V" /> , ¿cuanto valen <img src="https://latex.codecogs.com/svg.latex?I&space;\&space;y\&space;R_{cd}" title="I \ y\ R_{cd}" /> ?
    
-   <img src="https://latex.codecogs.com/svg.latex?10&space;\Omega" title="10 \Omega" />
-   
    b. En <img src="https://latex.codecogs.com/svg.latex?V&space;=&space;60V" title="V = 60V" /> , ¿cuanto valen <img src="https://latex.codecogs.com/svg.latex?I&space;\&space;y\&space;R_{cd}" title="I \ y\ R_{cd}" /> ?
    
-   <img src="https://latex.codecogs.com/svg.latex?13.3&space;\Omega" title="13.3 \Omega" />
-   
    c. ¿Por qué los dos valores son diferentes?
-   
-   Los valores son diferentes porque tenemos una variación en el voltaje y en la corriente.
 
 
 # 4. VIDEO
