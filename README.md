@@ -10,20 +10,19 @@ En esta tarea observaremos el estudio de la resitencia, ley de ohm, potencia y e
 
 
   #### OBJETIVO GENERAL
-  
-- Realizar las mediciones de resistencia y voltajes aplicando las bases teoricas correspondiente a cada capitulo.
 
+- Realizar las mediciones de resistencia y voltajes aplicando las bases teoricas correspondiente a cada capitulo.
+-
 - Dominar la ley de ohm para todos los casos correspondientes
 
 
   #### OBJETIVOS ESPECÍFICOS
-  
+
 - Afianzar resolviendo los ejericios correspondiente a intensidad de corriente y fuentes de corriente electrica directa por medio de un analisis minucioso de sus leyes, graficas y aplicar todo lo aprendido en la parte teórica para cada caso presentado en los problemas respectivos.
 
 - Analizar cada uno de los temas dados, con el fin de poder realizar los ejercicios correspondientes, así como también, obtener un mayor y amplio conocimiento mediante la práctica y desarollo de estos.  
 
 - Analizar y comprender la teoria de colores para identificar cualquier tipo de resistencia en todos los casos.
-
 
 
 # 2. MARCO TEÓRICO
@@ -39,7 +38,13 @@ En la siguiente tabla podemos ver como se identifican los valores de las resiste
 
 CAPITULO 4.
 
+LEY DE OHM 
 
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/mentefacto%20ley%20de%20ohm.jpg)
+
+POTENCIA Y ENERGíA
+
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/imagen%20potencia%20y%20energia.jpg)
 
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -98,17 +103,58 @@ CAPITULO 4.
 
 ![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/28.png)
 
-30.	Un diodo de silicio tiene una resistencia de 500 Ω a 20°C. Determine la resistencia del diodo si su temperatura se incrementa con un cautín a 30° C. (Suponga que la función de resistencia frente a temperatura es lineal.)
+34. Se mide la resistencia entre la terminal b del contacto deslizante y la terminal inferior c de un resistor variable de 200 k Ω y da 50 kΩ . Determine la resistencia que se medira entre la temrinal superior a , y la terminal del contacto deslizante b.
+
+Resolución.- 
+
+aplicamos Rac = Rab + Rbc 
+
+con Rbc = 50 kΩ y Rac = 200 k Ω 
+
+entonces Rab = 200 k Ω - 50 kΩ => Rab = 150 k Ω // Resp.
 
 
+36. Determine los códigos de colores requeridos si necesitara los siguientes resistores para un proyecto:
 
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/ejer%2036.jpg)
 
+Resolución .-
 
+a.  Naranja - Naranja - Oro - Rojo 
+b.  Gris - Rojo - cafe - Plata
+c.  Cafe - Verde - negro - sin color
+d.  Rojo - Violeta - Azul - Oro       //Resp.
+
+38. Si un óhmetro fuera colocado entre las teriminales de un interruptor , ¿ qué resistencia esperaría medir cuando los contactos del interruptor estén cerrados y cuando estén abiertos?
+
+Resolución .-
+
+lo que esperamos econtrar si estan cerrados es el valor de la resitencia que dependera de su codigo de colores los valores correspondientes, si estan abiertos dara un 1 teórico de lo cual no se debe cofundir con 1k o 1M. //Resp.
+
+40. Se usa un óhmetro analógico par amedir la resistencia de un componente de dos terminales. El óhmetro indica una resitencia de 1.5 k Ω . Cuando se invierte las temrinales el medidor indica que la resistencia del componente es un circuito abierto. ¿ El comonente esta defectuoso ? si no, ¿ qué tipo de componente se esta probando?
+
+Resolución.-
+
+se esta midiendo un corto circuito y el dispositvo debe sonar una alrma ya que los polos estan invertidos. // Resp.
 
 
 
 
 # CAP 4.
+
+1. Para el circuito de la figura determine la corriente I para cada uno de los sisguietes incicisos . Exprese la respuesta en la unidad mas apropiada depende el caso.
+ 
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/eje%201-%20cap%204.jpg)
+
+Resolución .-
+
+a. E=40 V, R=20 Ω => I=V/R => I=40/20 => I= 2 A.
+b. E= 35 mV, R= 5 mΩ => I=V/R => I=35/5 => I= 7 mA.
+c. E= 200 V, R=40 kΩ -> R= 40 000 Ω  => I=V/R => I=200/40 000 => I= 5*10^-3 A.
+d. E= 10 V, R= 2.5 MΩ -> R= 2 500 0000 Ω  => I=V/R => I=10/2500000 => I= 4*10^-6 A.
+e. E= 7.5 V, R= 2.5*10^3 Ω => I=V/R => I=7.5/2.5*10^3 => I= 3*10^-3 A.
+F. E= 12 KV -> E=12 000 v , R= 2 MΩ => I=V/R => I=12 000/2 000 000 => I= 6*10^-3 A.     // Resp.
+
 
 
 19. La figura representa la grafica I-V para el circuito de la figura ¿Cuál es el valor de R?
@@ -205,19 +251,15 @@ CAPITULO 4.
     
 53.Si hay 24 rebanadas en una barra de pan y se tiene un tostador de dos rebanadas de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" /> que tarda 1 minuto y 45 segundos en tostarlas, a <img src="https://latex.codecogs.com/svg.latex?\$\&space;0.13/kWh" title="\$\ 0.13/kWh" /> ¿cuanto costaría tostar toda la barra?
 
-<img src="https://latex.codecogs.com/svg.latex?W&space;=&space;1100&space;\left&space;((24)&space;\frac{0.3492}{3600}&space;\right&space;)&space;\\&space;\\&space;=&space;2.5608\&space;Wh&space;=&space;0.0025608\&space;kWh&space;\\&space;\\&space;costo&space;=&space;(0.0025608\&space;kWh)(\$\&space;0.11\&space;kWh)&space;=&space;\$\&space;0.000281" title="W = 1100 \left ((24) \frac{0.3492}{3600} \right ) \\ \\ = 2.5608\ Wh = 0.0025608\ kWh \\ \\ costo = (0.0025608\ kWh)(\$\ 0.11\ kWh) = \$\ 0.000281" />
 
 55.La potencia de salida de un transformador con <img src="https://latex.codecogs.com/svg.latex?\eta&space;=&space;95\%" title="\eta = 95\%" /> es de <img src="https://latex.codecogs.com/svg.latex?50\&space;kW" title="50\ kW" />  ¿cual es la potencia de entrada?.
 
-<img src="https://latex.codecogs.com/svg.latex?\eta&space;=&space;\frac{P.sal}{P.ent}&space;\cdot&space;100&space;\\&space;\\&space;P.en&space;=&space;\frac{P.sal&space;\cdot&space;100}{n}&space;\\&space;\\&space;P.en&space;=&space;\frac{50&space;\cdot&space;100}{95}&space;=&space;52\&space;kW" title="\eta = \frac{P.sal}{P.ent} \cdot 100 \\ \\ P.en = \frac{P.sal \cdot 100}{n} \\ \\ P.en = \frac{50 \cdot 100}{95} = 52\ kW" />
 
 57.La potencia de entrada de un dispositivo es de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" />  . Si la potencia que se pierde debido a varias ineficiencias es de <img src="https://latex.codecogs.com/svg.latex?190\&space;W" title="190\ W" />  ¿cual es la eficiencia del dispositivo?
 
-<img src="https://latex.codecogs.com/svg.latex?\eta&space;=&space;\frac{P.sal}{P.ent}&space;\cdot&space;100&space;\\&space;\\&space;\eta&space;=&space;\frac{910}{1100}&space;\cdot&space;100&space;%&space;=&space;82.7%" title="\eta = \frac{P.sal}{P.ent} \cdot 100 \\ \\ \eta = \frac{910}{1100} \cdot 100 % = 82.7%" />
 
 59.Un motor de cd de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> con una eficiencia de <img src="https://latex.codecogs.com/svg.latex?89\&space;%" title="89\ %" /> demanda <img src="https://latex.codecogs.com/svg.latex?15\&space;A" title="15\ A" />  de una fuente ¿cuantos caballos de potencia tiene de salida?
 
-<img src="https://latex.codecogs.com/svg.latex?P.sal&space;=&space;120\&space;V&space;\cdot&space;15\&space;A&space;=&space;1800\&space;W&space;\\&space;Convirtiendo\&space;a\&space;caballos\&space;de\&space;potencia&space;\\&space;P.sal&space;=&space;(1800\&space;W)&space;\cdot&space;\left&space;(&space;746\&space;\frac{W}{hp}&space;\right&space;)&space;=&space;2.15\&space;hp" title="P.sal = 120\ V \cdot 15\ A = 1800\ W \\ Convirtiendo\ a\ caballos\ de\ potencia \\ P.sal = (1800\ W) \cdot \left ( 746\ \frac{W}{hp} \right ) = 2.15\ hp" />
 
 61.El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de <img src="https://latex.codecogs.com/svg.latex?48\&space;V" title="48\ V" />  , una unidad de control/manejo electrónica y el motor (figura 4-40). Si se requieren <img src="https://latex.codecogs.com/svg.latex?180\&space;A" title="180\ A" /> de las baterías ¿cuántos caballos de potencia se suministra a la tracción del vehículo?
 
@@ -247,11 +289,15 @@ link del video:
 
 # 5. CONCLUSIONES
 
+ * Pudimos enteder de Mejor manera la ley universal de ohm y ques completa ya q se aplica a varios casos para econtrar cualquiera de sus componetess de una manera adecuada y acertada. 
+
  * Concluímos que al aplicar la teoria se puede resolver cualquier caso practico en la vida cotidiana y haciendo sus respectivo analisis fisico podemos realizar diversos diagrama para una mejor observacion del caso presentado o dado, asi podemos medir corriente voltaje resistencia conociendo teoricamente sus respectivas undiades.
  
  * Finalmente después de haber realizado un análisis profundo de cada tema tratado, pudimos observar que gracias al análisis realizado por cada uno se pudo obtener un mayor conocimiento y así poder realizar el cálculo necesario para la resolución de problemas, los cuales nos brindan un gran avance en el análisis de circuitos.
  
  * Luego de revisar atentamente el contenido expuesto en el texto guía podemos concluir que las fórmulas expuestas fueron comprendidas y aplicadas en base a los ejercicios propuestos.
+ 
+ * Luego de la resolucion de los ejericios se pudo identificar de  mejor manera las resistencias solo con la teroia de colores encotramos sus valores.
 
 # 6. BIBLIOGRAFÍA
 
