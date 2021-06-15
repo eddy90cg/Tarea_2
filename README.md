@@ -123,6 +123,8 @@ CAPITULO 4.
 49.  Determine el costo total por usar los siguientes aparatos a <img src="https://latex.codecogs.com/svg.latex?\$\&space;0.11" title="\$\ 0.11" /> por <img src="https://latex.codecogs.com/svg.latex?kWh" title="kWh" />
     
    a. Un tostador de <img src="https://latex.codecogs.com/svg.latex?900\&space;W" title="900\ W" /> por 5 minutos
+   
+   <img src="https://latex.codecogs.com/svg.latex?W&space;=&space;900&space;\left&space;(&space;\frac{5}{60}\right&space;)&space;\\&space;\\&space;=&space;75\&space;Wh&space;=&space;0.075\&space;kWh&space;\\&space;\\&space;costo&space;=&space;(0.075\&space;kWh)(\$\&space;0.11\&space;kWh)&space;=&space;\$\&space;0.00825" title="W = 900 \left ( \frac{5}{60}\right ) \\ \\ = 75\ Wh = 0.075\ kWh \\ \\ costo = (0.075\ kWh)(\$\ 0.11\ kWh) = \$\ 0.00825" />
     
    b. Un calentador de <img src="https://latex.codecogs.com/svg.latex?900\&space;W" title="900\ W" /> y <img src="https://latex.codecogs.com/svg.latex?8\&space;A" title="8\ A" /> por 1.7 horas.
     
