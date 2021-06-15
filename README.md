@@ -305,9 +305,15 @@ Aplicamos la ley de ohm I=V/R => R=V/I => R=33/0.0015 => R=22*10^3 Ω => sus co
 
    a. En <img src="https://latex.codecogs.com/svg.latex?V&space;=&space;25V" title="V = 25V" /> , ¿cuanto valen <img src="https://latex.codecogs.com/svg.latex?I&space;\&space;y\&space;R_{cd}" title="I \ y\ R_{cd}" /> ?
    
+   <img src="https://latex.codecogs.com/svg.latex?10\&space;\Omega" title="10\ \Omega" />
+   
    b. En <img src="https://latex.codecogs.com/svg.latex?V&space;=&space;60V" title="V = 60V" /> , ¿cuanto valen <img src="https://latex.codecogs.com/svg.latex?I&space;\&space;y\&space;R_{cd}" title="I \ y\ R_{cd}" /> ?
    
+   <img src="https://latex.codecogs.com/svg.latex?13.3\&space;\Omega" title="13.3\ \Omega" />
+   
    c. ¿Por qué los dos valores son diferentes?
+   
+   Los dos valores son diferentes por la variacion de voltaje y corriente
 
 
 # 4. VIDEO
