@@ -26,6 +26,11 @@
 
 CAPITULO 3.
 
+![MENTEFACTO 3](https://user-images.githubusercontent.com/84453557/121987827-dc34cd80-cd5e-11eb-8312-a65e466a1588.png)
+
+En la siguiente tabla podemos ver como se identifican los valores de las resistencias sin necesidad de una numeracion escrita explicitamente en el componente.
+
+![TablaColoresResistor](https://user-images.githubusercontent.com/84453557/121987905-01c1d700-cd5f-11eb-999a-7978f1d24faa.png)
 
 
 CAPITULO 4.
