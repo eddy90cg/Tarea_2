@@ -285,6 +285,8 @@ Aplicamos la ley de ohm I=V/R => R=V/I => R=33/0.0015 => R=22*10^3 Ω => sus co
 
 61.El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de <img src="https://latex.codecogs.com/svg.latex?48\&space;V" title="48\ V" />  , una unidad de control/manejo electrónica y el motor (figura 4-40). Si se requieren <img src="https://latex.codecogs.com/svg.latex?180\&space;A" title="180\ A" /> de las baterías ¿cuántos caballos de potencia se suministra a la tracción del vehículo?
 
+<img src="https://latex.codecogs.com/svg.latex?0.95&space;\times&space;0.80&space;=&space;0.76&space;\\&space;180\&space;A&space;\times&space;48\&space;V&space;=&space;8640\&space;W&space;\\&space;P&space;=&space;6566.4\&space;W&space;=&space;8.80\&space;hp" title="0.95 \times 0.80 = 0.76 \\ 180\ A \times 48\ V = 8640\ W \\ P = 6566.4\ W = 8.80\ hp" />
+
 ![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/Fig.4-40.png)
 
 63.Un motor de cd de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> opera a través de una caja de engranajes (figura 4-24). Si la potencia de la bomba es de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" /> , la caja de engranajes tiene una eficiencia de <img src="https://latex.codecogs.com/svg.latex?75\&space;%" title="75\ %" /> y la potencia de la entrada al motor es de <img src="https://latex.codecogs.com/svg.latex?1600\&space;W" title="1600\ W" /> , determine los caballos de potencia de salida del motor.
