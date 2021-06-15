@@ -41,6 +41,66 @@ CAPITULO 4.
 
 # CAP 3.
 
+2.	Determine la resistencia, a 20 °C, de 200 pies de conductores de hierro que tienen las siguientes secciones transversales:
+
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/2.png)
+
+4.	El alambre de nicromo se usa para construir elementos calefactores. Determine la longitud de un alambre de nicromo de 1.0 mm de diámetro que se necesita para producir un elemento calefactor que tenga una resistencia de 2.0 ohm a una temperatura de 20°C.
+
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/4.png)
+
+6.  Una pieza de alambre de aluminio tiene una resistencia, a 20°C, de 20 Ω. Si este alambre se funde y se usa para producir un segundo alambre que tiene una longitud cuatro veces más grande que la original, ¿cuál será la resistencia del nuevo alambre a 20°C? (Sugerencia: el volumen del alambre no ha cambiado.)
+
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/6.png)
+
+8.  Un alambre sólido circular de 200 m de longitud y con un diámetro de 0.4 mm tiene una resistencia de 357 Ω  a 20°C. ¿De qué material está hecho el alambre?
+
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/8.png)
+
+10.  Una sección de alambre de hierro con un diámetro de 0.030 pulgadas tiene una resistencia de 2 500 Ω (a una temperatura de 20°C).
+
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/10.png)
+
+12.  Use la tabla 3-2 para encontrar la resistencia de 250 m de conductores de cobre sólido AWG 8 y AWG 2. Compare los diámetros y resistencias de los alambres.
+
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/12.png)
+
+14.  Si el AWG 8 se especifica para un máximo de 40 A, ¿cuánta corriente podrá conducir con seguridad el AWG 2?
+
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/14.png)
+
+16.	¿Cuánta corriente será capaz de conducir un alambre de cobre AWG 36?
+
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/16.png)
+
+18.	Exprese las áreas de las secciones transversales de los conductores del problema 17 en milésimas y milímetros cuadrados.
+
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/18.png)
+
+20.	Determine el diámetro en pulgadas y en milímetros de cables circulares que tiene las siguientes áreas se secciones transversales (suponga que los cables son conductores sólidos):
+
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/20.png)
+
+22.	Repita el problema 21 si el alambre está hecho de nicromo.
+
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/22.png)
+
+26.	Se diseña un alambre para uso doméstico de cobre sólido AWG 14 para operar dentro de un intervalo de temperatura de -40°C a 90°C. Calcule la resistencia de 200 pies de circuito de alambre a ambas temperaturas. Nota: un pie de circuito es la longitud del cable necesario para que la corriente viaje hacia una carga y de regreso.
+
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/26.png)
+
+28.	Cierto material tiene una resistencia de 100 Ω a temperatura ambiente (20°C) y de 150 Ω a -25°C. 
+
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/28.png)
+
+30.	Un diodo de silicio tiene una resistencia de 500 Ω a 20°C. Determine la resistencia del diodo si su temperatura se incrementa con un cautín a 30° C. (Suponga que la función de resistencia frente a temperatura es lineal.)
+
+
+
+
+
+
+
 
 
 # CAP 4.
