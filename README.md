@@ -217,6 +217,7 @@ CAPITULO 4.
 
 59.Un motor de cd de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> con una eficiencia de <img src="https://latex.codecogs.com/svg.latex?89\&space;%" title="89\ %" /> demanda <img src="https://latex.codecogs.com/svg.latex?15\&space;A" title="15\ A" />  de una fuente ¿cuantos caballos de potencia tiene de salida?
 
+<img src="https://latex.codecogs.com/svg.latex?P.sal&space;=&space;120\&space;V&space;\cdot&space;15\&space;A&space;=&space;1800\&space;W&space;\\&space;Convirtiendo\&space;a\&space;caballos\&space;de\&space;potencia&space;\\&space;P.sal&space;=&space;(1800\&space;W)&space;\cdot&space;\left&space;(&space;746\&space;\frac{W}{hp}&space;\right&space;)&space;=&space;2.15\&space;hp" title="P.sal = 120\ V \cdot 15\ A = 1800\ W \\ Convirtiendo\ a\ caballos\ de\ potencia \\ P.sal = (1800\ W) \cdot \left ( 746\ \frac{W}{hp} \right ) = 2.15\ hp" />
 
 61.El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de <img src="https://latex.codecogs.com/svg.latex?48\&space;V" title="48\ V" />  , una unidad de control/manejo electrónica y el motor (figura 4-40). Si se requieren <img src="https://latex.codecogs.com/svg.latex?180\&space;A" title="180\ A" /> de las baterías ¿cuántos caballos de potencia se suministra a la tracción del vehículo?
 
