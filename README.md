@@ -131,6 +131,8 @@ CAPITULO 4.
    <img src="https://latex.codecogs.com/svg.latex?W&space;=&space;900\&space;(1.7)&space;\\&space;\\&space;=&space;1530\&space;Wh&space;=&space;1.53\&space;kWh&space;\\&space;\\&space;costo&space;=&space;(1.53\&space;kWh)(\$\&space;0.11\&space;kWh)&space;=&space;\$\&space;0.1683" title="W = 900\ (1.7) \\ \\ = 1530\ Wh = 1.53\ kWh \\ \\ costo = (1.53\ kWh)(\$\ 0.11\ kWh) = \$\ 0.1683" />
     
    c. Un lavaplatos de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" /> por 36 minutos.
+   
+   <img src="https://latex.codecogs.com/svg.latex?W&space;=&space;1100&space;\left&space;(&space;\frac{36}{60}&space;\right&space;)&space;\\&space;\\&space;=&space;660\&space;Wh&space;=&space;0.66\&space;kWh&space;\\&space;\\&space;costo&space;=&space;(0.66\&space;kWh)(\$\&space;0.11\&space;kWh)&space;=&space;\$\&space;0.0726" title="W = 1100 \left ( \frac{36}{60} \right ) \\ \\ = 660\ Wh = 0.66\ kWh \\ \\ costo = (0.66\ kWh)(\$\ 0.11\ kWh) = \$\ 0.0726" />
     
    d. Un cautín de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> y <img src="https://latex.codecogs.com/svg.latex?280\&space;\Omega" title="280\ \Omega" /> por 24 minutos.
     
