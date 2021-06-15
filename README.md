@@ -151,7 +151,7 @@ CAPITULO 4.
 ![35](https://user-images.githubusercontent.com/84453557/121974570-49d40000-cd45-11eb-8c55-e7d44e87c321.png)
 
 
-37. Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V.
+37. Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V. 
 
 ![37](https://user-images.githubusercontent.com/84453557/121974575-4c365a00-cd45-11eb-9671-3f7fb00feebd.png)
 
