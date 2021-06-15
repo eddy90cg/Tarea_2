@@ -209,9 +209,10 @@ CAPITULO 4.
 
 55.La potencia de salida de un transformador con <img src="https://latex.codecogs.com/svg.latex?\eta&space;=&space;95\%" title="\eta = 95\%" /> es de <img src="https://latex.codecogs.com/svg.latex?50\&space;kW" title="50\ kW" />  ¿cual es la potencia de entrada?.
 
-
+<img src="https://latex.codecogs.com/svg.latex?\eta&space;=&space;\frac{P.sal}{P.ent}&space;\cdot&space;100&space;\\&space;\\&space;P.en&space;=&space;\frac{P.sal&space;\cdot&space;100}{n}&space;\\&space;\\&space;P.en&space;=&space;\frac{50&space;\cdot&space;100}{95}&space;=&space;52\&space;kW" title="\eta = \frac{P.sal}{P.ent} \cdot 100 \\ \\ P.en = \frac{P.sal \cdot 100}{n} \\ \\ P.en = \frac{50 \cdot 100}{95} = 52\ kW" />
 
 57.La potencia de entrada de un dispositivo es de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" />  . Si la potencia que se pierde debido a varias ineficiencias es de <img src="https://latex.codecogs.com/svg.latex?190\&space;W" title="190\ W" />  ¿cual es la eficiencia del dispositivo?
+
 
 
 59.Un motor de cd de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> con una eficiencia de <img src="https://latex.codecogs.com/svg.latex?89\&space;%" title="89\ %" /> demanda <img src="https://latex.codecogs.com/svg.latex?15\&space;A" title="15\ A" />  de una fuente ¿cuantos caballos de potencia tiene de salida?
