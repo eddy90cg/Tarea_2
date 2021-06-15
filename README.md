@@ -120,7 +120,7 @@ CAPITULO 4.
 
 ![47](https://user-images.githubusercontent.com/84453557/121974585-55272b80-cd45-11eb-9903-4ca12e4c3517.png)
 
-49. Determine el costo total por usar los siguientes aparatos a <img src="https://latex.codecogs.com/svg.latex?\$\&space;0.11" title="\$\ 0.11" /> por <img src="https://latex.codecogs.com/svg.latex?kWh" title="kWh" />
+49.  Determine el costo total por usar los siguientes aparatos a <img src="https://latex.codecogs.com/svg.latex?\$\&space;0.11" title="\$\ 0.11" /> por <img src="https://latex.codecogs.com/svg.latex?kWh" title="kWh" />
     
     a. Un tostador de <img src="https://latex.codecogs.com/svg.latex?900\&space;W" title="900\ W" /> por 5 minutos
     
@@ -130,13 +130,13 @@ CAPITULO 4.
     
     d. Un cautín de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> y <img src="https://latex.codecogs.com/svg.latex?280\&space;\Omega" title="280\ \Omega" /> por 24 minutos.
     
-53. Si hay 24 rebanadas en una barra de pan y se tiene un tostador de dos rebanadas de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" /> que tarda 1 minuto y 45 segundos en tostarlas, a <img src="https://latex.codecogs.com/svg.latex?\$\&space;0.13/kWh" title="\$\ 0.13/kWh" /> ¿cuanto costaría tostar toda la barra?
+53.  Si hay 24 rebanadas en una barra de pan y se tiene un tostador de dos rebanadas de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" /> que tarda 1 minuto y 45 segundos en tostarlas, a <img src="https://latex.codecogs.com/svg.latex?\$\&space;0.13/kWh" title="\$\ 0.13/kWh" /> ¿cuanto costaría tostar toda la barra?
 
 55. La potencia de salida de un transformador con <img src="https://latex.codecogs.com/svg.latex?\eta&space;=&space;95\%" title="\eta = 95\%" /> es de <img src="https://latex.codecogs.com/svg.latex?50\&space;kW" title="50\ kW" /> ¿cual es la potencia de entrada?.
 
-57. La potencia de entrada de un dispositivo es de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" /> . Si la potencia que se pierde debido a varias ineficiencias es de <img src="https://latex.codecogs.com/svg.latex?190\&space;W" title="190\ W" /> ¿cual es la eficiencia del dispositivo?
+57.  La potencia de entrada de un dispositivo es de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" /> . Si la potencia que se pierde debido a varias ineficiencias es de <img src="https://latex.codecogs.com/svg.latex?190\&space;W" title="190\ W" /> ¿cual es la eficiencia del dispositivo?
 
-59. Un motor de cd de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> con una eficiencia de <img src="https://latex.codecogs.com/svg.latex?89\&space;%" title="89\ %" /> demanda <img src="https://latex.codecogs.com/svg.latex?15\&space;A" title="15\ A" />  de una fuente ¿cuantos caballos de potencia tiene de salida?
+59.  Un motor de cd de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> con una eficiencia de <img src="https://latex.codecogs.com/svg.latex?89\&space;%" title="89\ %" /> demanda <img src="https://latex.codecogs.com/svg.latex?15\&space;A" title="15\ A" />  de una fuente ¿cuantos caballos de potencia tiene de salida?
 
 
     
