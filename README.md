@@ -121,7 +121,16 @@ CAPITULO 4.
 ![47](https://user-images.githubusercontent.com/84453557/121974585-55272b80-cd45-11eb-9903-4ca12e4c3517.png)
 
 49. Determine el costo total por usar los siguientes aparatos a <img src="https://latex.codecogs.com/svg.latex?\$\&space;0.11" title="\$\ 0.11" /> por <img src="https://latex.codecogs.com/svg.latex?kWh" title="kWh" />
-
+    
+    a. Un tostador de <img src="https://latex.codecogs.com/svg.latex?900\&space;W" title="900\ W" /> por 5 minutos
+    
+    b. Un calentador de <img src="https://latex.codecogs.com/svg.latex?900\&space;W" title="900\ W" /> y <img src="https://latex.codecogs.com/svg.latex?8\&space;A" title="8\ A" /> por 1.7 horas.
+    
+    c. Un lavaplatos de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" /> por 36 minutos.
+    
+    d. Un cautín de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> y <img src="https://latex.codecogs.com/svg.latex?280\&space;\Omega" title="280\ \Omega" /> por 24 minutos.
+    
+    
 
 
 
