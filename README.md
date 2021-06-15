@@ -154,6 +154,13 @@ CAPITULO 4.
 
 67.Un resistor que depende de voltaje tiene la característica <img src="https://latex.codecogs.com/svg.latex?I\&space;-\&space;V" title="I\ -\ V" /> de la figura 4-41
 
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/Fig.4-41.png)
+
+   a. En <img src="https://latex.codecogs.com/svg.latex?V&space;=&space;25V" title="V = 25V" /> , ¿cuanto valen <img src="https://latex.codecogs.com/svg.latex?I&space;\&space;y\&space;R_{cd}" title="I \ y\ R_{cd}" /> ?
+   
+   b. En <img src="https://latex.codecogs.com/svg.latex?V&space;=&space;60V" title="V = 60V" /> , ¿cuanto valen <img src="https://latex.codecogs.com/svg.latex?I&space;\&space;y\&space;R_{cd}" title="I \ y\ R_{cd}" /> ?
+   
+   c. ¿Por qué los dos valores son diferentes?
 
 
 # 4. VIDEO
