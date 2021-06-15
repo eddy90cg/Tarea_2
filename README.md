@@ -144,6 +144,8 @@ CAPITULO 4.
 
 61.  El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de <img src="https://latex.codecogs.com/svg.latex?48\&space;V" title="48\ V" /> , una unidad de control/manejo electrónica y el motor (figura 4-40). Si se requieren <img src="https://latex.codecogs.com/svg.latex?180\&space;A" title="180\ A" /> de las baterías ¿cuántos caballos de potencia se suministra a la tracción del vehículo?
 
+![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/Fig.4-40.png)
+
 
 
     
