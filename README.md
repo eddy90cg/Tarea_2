@@ -120,6 +120,9 @@ CAPITULO 4.
 
 ![47](https://user-images.githubusercontent.com/84453557/121974585-55272b80-cd45-11eb-9903-4ca12e4c3517.png)
 
+49. Determine el costo total por usar los siguientes aparatos a <img src="https://latex.codecogs.com/svg.latex?\$\&space;0.11" title="\$\ 0.11" /> por <img src="https://latex.codecogs.com/svg.latex?kWh" title="kWh" />
+
+
 
 
 
