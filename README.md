@@ -308,8 +308,7 @@ Aplicamos la ley de ohm I=V/R => R=V/I => R=33/0.0015 => R=22*10^3 Ω => sus co
 
 # 4. VIDEO
 
-link del video:
-
+https://youtu.be/DiBHEssOmVQ
 
 # 5. CONCLUSIONES
 
