@@ -6,20 +6,24 @@
 
 #### RESUMEN
 
+En esta tarea observaremos el estudio de la resitencia, ley de ohm, potencia y energia, son los cocnceptos basicos de enteder, practicar y dominar antes del estudio del analisis de mallas, se observa linea de colores y poder identificar el valor de la resistencia atraves de los colores caracteristicos de cada uno, asi mismo con la famosa ley de ohm I=E/R podemos econtrar los valores en cualquier caso con esta ley universal.
 
 
   #### OBJETIVO GENERAL
+  
+- Realizar las mediciones de resistencia y voltajes aplicando las bases teoricas correspondiente a cada capitulo.
 
-- Realizar las mediciones de corrientes y voltajes aplicando las bases teoricas correspondiente a cada capitulo.
+- Dominar la ley de ohm para todos los casos correspondientes
 
 
   #### OBJETIVOS ESPECÍFICOS
-
-- Afianzar resolviendo los ejericios correspondiente a intensidad de corriente y fuentes de corriente electrica directa por medio de un analisis minucioso de sus diagramas, graficas y aplicar todo lo aprendido en la parte teórica para cada caso presentado en los problemas respectivos.
+  
+- Afianzar resolviendo los ejericios correspondiente a intensidad de corriente y fuentes de corriente electrica directa por medio de un analisis minucioso de sus leyes, graficas y aplicar todo lo aprendido en la parte teórica para cada caso presentado en los problemas respectivos.
 
 - Analizar cada uno de los temas dados, con el fin de poder realizar los ejercicios correspondientes, así como también, obtener un mayor y amplio conocimiento mediante la práctica y desarollo de estos.  
 
-- Analizar y comprender cada una de las fórmulas aplicadas a los circuitos electricos para aplicarlas en laboratorios y los ejercicios correspondientes.
+- Analizar y comprender la teoria de colores para identificar cualquier tipo de resistencia en todos los casos.
+
 
 
 # 2. MARCO TEÓRICO
@@ -34,6 +38,7 @@ En la siguiente tabla podemos ver como se identifican los valores de las resiste
 
 
 CAPITULO 4.
+
 
 
 
