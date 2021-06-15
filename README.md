@@ -213,7 +213,7 @@ CAPITULO 4.
 
 57.La potencia de entrada de un dispositivo es de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" />  . Si la potencia que se pierde debido a varias ineficiencias es de <img src="https://latex.codecogs.com/svg.latex?190\&space;W" title="190\ W" />  ¿cual es la eficiencia del dispositivo?
 
-
+<img src="https://latex.codecogs.com/svg.latex?\eta&space;=&space;\frac{P.sal}{P.ent}&space;\cdot&space;100&space;\\&space;\\&space;\eta&space;=&space;\frac{910}{1100}&space;\cdot&space;100&space;%&space;=&space;82.7%" title="\eta = \frac{P.sal}{P.ent} \cdot 100 \\ \\ \eta = \frac{910}{1100} \cdot 100 % = 82.7%" />
 
 59.Un motor de cd de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> con una eficiencia de <img src="https://latex.codecogs.com/svg.latex?89\&space;%" title="89\ %" /> demanda <img src="https://latex.codecogs.com/svg.latex?15\&space;A" title="15\ A" />  de una fuente ¿cuantos caballos de potencia tiene de salida?
 
