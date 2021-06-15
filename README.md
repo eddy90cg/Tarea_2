@@ -205,8 +205,10 @@ CAPITULO 4.
     
 53.Si hay 24 rebanadas en una barra de pan y se tiene un tostador de dos rebanadas de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" /> que tarda 1 minuto y 45 segundos en tostarlas, a <img src="https://latex.codecogs.com/svg.latex?\$\&space;0.13/kWh" title="\$\ 0.13/kWh" /> ¿cuanto costaría tostar toda la barra?
 
+<img src="https://latex.codecogs.com/svg.latex?W&space;=&space;1100&space;\left&space;((24)&space;\frac{0.3492}{3600}&space;\right&space;)&space;\\&space;\\&space;=&space;2.5608\&space;Wh&space;=&space;0.0025608\&space;kWh&space;\\&space;\\&space;costo&space;=&space;(0.0025608\&space;kWh)(\$\&space;0.11\&space;kWh)&space;=&space;\$\&space;0.000281" title="W = 1100 \left ((24) \frac{0.3492}{3600} \right ) \\ \\ = 2.5608\ Wh = 0.0025608\ kWh \\ \\ costo = (0.0025608\ kWh)(\$\ 0.11\ kWh) = \$\ 0.000281" />
 
 55.La potencia de salida de un transformador con <img src="https://latex.codecogs.com/svg.latex?\eta&space;=&space;95\%" title="\eta = 95\%" /> es de <img src="https://latex.codecogs.com/svg.latex?50\&space;kW" title="50\ kW" />  ¿cual es la potencia de entrada?.
+
 
 
 57.La potencia de entrada de un dispositivo es de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" />  . Si la potencia que se pierde debido a varias ineficiencias es de <img src="https://latex.codecogs.com/svg.latex?190\&space;W" title="190\ W" />  ¿cual es la eficiencia del dispositivo?
