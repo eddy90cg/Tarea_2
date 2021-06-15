@@ -31,6 +31,16 @@ CAPITULO 3.
 CAPITULO 4.
 
 
+
+# 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+# CAP 3.
+
+
+
+# CAP 4.
+
+
 19. La figura representa la grafica I-V para el circuito de la figura ¿Cuál es el valor de R?
 
 ![19](https://user-images.githubusercontent.com/84453557/121974522-3163e580-cd45-11eb-90ba-21309f670149.png)
@@ -104,16 +114,6 @@ CAPITULO 4.
 47. Una lampara gratuita de seguridad nocturna de 40 W se enciende por 9 horas
 
 ![47](https://user-images.githubusercontent.com/84453557/121974585-55272b80-cd45-11eb-9903-4ca12e4c3517.png)
-
-
-# 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-
-# CAP 3.
-
-
-
-# CAP 4.
-
 
 
 
