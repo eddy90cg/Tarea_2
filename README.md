@@ -134,7 +134,7 @@ link del video:
  
  * Finalmente después de haber realizado un análisis profundo de cada tema tratado, pudimos observar que gracias al análisis realizado por cada uno se pudo obtener un mayor conocimiento y así poder realizar el cálculo necesario para la resolución de problemas, los cuales nos brindan un gran avance en el análisis de circuitos.
  
- * Luego de revisar atentamente el contenido expuesto en el texto guía podemos concluir que las fo´rmulas expuestas fueron comprendidas y aplicadas en base a los ejercicios propuestos.
+ * Luego de revisar atentamente el contenido expuesto en el texto guía podemos concluir que las fórmulas expuestas fueron comprendidas y aplicadas en base a los ejercicios propuestos.
 
 # 6. BIBLIOGRAFÍA
 
