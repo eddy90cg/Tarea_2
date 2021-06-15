@@ -12,7 +12,7 @@ En esta tarea observaremos el estudio de la resitencia, ley de ohm, potencia y e
   #### OBJETIVO GENERAL
 
 - Realizar las mediciones de resistencia y voltajes aplicando las bases teoricas correspondiente a cada capitulo.
--
+
 - Dominar la ley de ohm para todos los casos correspondientes
 
 
