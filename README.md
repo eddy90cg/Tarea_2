@@ -130,6 +130,15 @@ CAPITULO 4.
     
     d. Un cautín de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> y <img src="https://latex.codecogs.com/svg.latex?280\&space;\Omega" title="280\ \Omega" /> por 24 minutos.
     
+53. Si hya 24 rebanadas en una barra de pan y se tiene un tostador de dos rebanadas de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" /> que tarda 1 minuto y 45 segundos en tostarlas, a <img src="https://latex.codecogs.com/svg.latex?\$\&space;0.13/kWh" title="\$\ 0.13/kWh" /> ¿cuanto costaría tostar toda la barra?
+
+55. La potencia de salida de un transformador con <img src="https://latex.codecogs.com/svg.latex?\eta&space;=&space;95\%" title="\eta = 95\%" /> es de <img src="https://latex.codecogs.com/svg.latex?50\&space;kW" title="50\ kW" /> ¿cual es la potencia de entrada?.
+
+57. La potencia de entrada de un dispositivo es de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" /> . Si la potencia que se pierde debido a varias ineficiencias es de <img src="https://latex.codecogs.com/svg.latex?190\&space;W" title="190\ W" /> ¿cual es la eficiencia del dispositivo?
+
+59. Un motor de cd de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> con una eficiencia de <img src="https://latex.codecogs.com/svg.latex?89\&space;%" title="89\ %" /> demanda <img src="https://latex.codecogs.com/svg.latex?15\&space;A" title="15\ A" />  de una fuente ¿cuantos caballos de potencia tiene de salida?
+
+
     
 
 
