@@ -195,6 +195,8 @@ CAPITULO 4.
    <img src="https://latex.codecogs.com/svg.latex?W&space;=&space;1100&space;\left&space;(&space;\frac{36}{60}&space;\right&space;)&space;\\&space;\\&space;=&space;660\&space;Wh&space;=&space;0.66\&space;kWh&space;\\&space;\\&space;costo&space;=&space;(0.66\&space;kWh)(\$\&space;0.11\&space;kWh)&space;=&space;\$\&space;0.0726" title="W = 1100 \left ( \frac{36}{60} \right ) \\ \\ = 660\ Wh = 0.66\ kWh \\ \\ costo = (0.66\ kWh)(\$\ 0.11\ kWh) = \$\ 0.0726" />
     
    d. Un cautín de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> y <img src="https://latex.codecogs.com/svg.latex?280\&space;\Omega" title="280\ \Omega" /> por 24 minutos.
+   
+   <img src="https://latex.codecogs.com/svg.latex?W&space;=&space;33600&space;\left&space;(&space;\frac{24}{60}&space;\right&space;)&space;\\&space;\\&space;=&space;13440\&space;Wh&space;=&space;13.44\&space;kWh&space;\\&space;\\&space;costo&space;=&space;(13.44\&space;kWh)(\$\&space;0.11\&space;kWh)&space;=&space;\$\&space;1.4784" title="W = 33600 \left ( \frac{24}{60} \right ) \\ \\ = 13440\ Wh = 13.44\ kWh \\ \\ costo = (13.44\ kWh)(\$\ 0.11\ kWh) = \$\ 1.4784" />
     
 53.Si hay 24 rebanadas en una barra de pan y se tiene un tostador de dos rebanadas de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" /> que tarda 1 minuto y 45 segundos en tostarlas, a <img src="https://latex.codecogs.com/svg.latex?\$\&space;0.13/kWh" title="\$\ 0.13/kWh" /> ¿cuanto costaría tostar toda la barra?
 
