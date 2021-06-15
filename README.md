@@ -286,6 +286,8 @@ F. E= 12 KV -> E=12 000 v , R= 2 MΩ => I=V/R => I=12 000/2 000 000 => I= 6*10^
    <img src="https://latex.codecogs.com/svg.latex?13.3&space;\Omega" title="13.3 \Omega" />
    
    c. ¿Por qué los dos valores son diferentes?
+   
+   Los valores son diferentes porque tenemos una variación en el voltaje y en la corriente.
 
 
 # 4. VIDEO
