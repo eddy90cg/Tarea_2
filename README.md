@@ -136,15 +136,17 @@ CAPITULO 4.
 55.La potencia de salida de un transformador con <img src="https://latex.codecogs.com/svg.latex?\eta&space;=&space;95\%" title="\eta = 95\%" /> es de <img src="https://latex.codecogs.com/svg.latex?50\&space;kW" title="50\ kW" />  ¿cual es la potencia de entrada?.
 
 
- 57.La potencia de entrada de un dispositivo es de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" />  . Si la potencia que se pierde debido a varias ineficiencias es de <img src="https://latex.codecogs.com/svg.latex?190\&space;W" title="190\ W" />  ¿cual es la eficiencia del dispositivo?
+57.La potencia de entrada de un dispositivo es de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" />  . Si la potencia que se pierde debido a varias ineficiencias es de <img src="https://latex.codecogs.com/svg.latex?190\&space;W" title="190\ W" />  ¿cual es la eficiencia del dispositivo?
 
 
- 59.Un motor de cd de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> con una eficiencia de <img src="https://latex.codecogs.com/svg.latex?89\&space;%" title="89\ %" /> demanda <img src="https://latex.codecogs.com/svg.latex?15\&space;A" title="15\ A" />  de una fuente ¿cuantos caballos de potencia tiene de salida?
+59.Un motor de cd de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> con una eficiencia de <img src="https://latex.codecogs.com/svg.latex?89\&space;%" title="89\ %" /> demanda <img src="https://latex.codecogs.com/svg.latex?15\&space;A" title="15\ A" />  de una fuente ¿cuantos caballos de potencia tiene de salida?
 
 
- 61.El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de <img src="https://latex.codecogs.com/svg.latex?48\&space;V" title="48\ V" />  , una unidad de control/manejo electrónica y el motor (figura 4-40). Si se requieren <img src="https://latex.codecogs.com/svg.latex?180\&space;A" title="180\ A" /> de las baterías ¿cuántos caballos de potencia se suministra a la tracción del vehículo?
+61.El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de <img src="https://latex.codecogs.com/svg.latex?48\&space;V" title="48\ V" />  , una unidad de control/manejo electrónica y el motor (figura 4-40). Si se requieren <img src="https://latex.codecogs.com/svg.latex?180\&space;A" title="180\ A" /> de las baterías ¿cuántos caballos de potencia se suministra a la tracción del vehículo?
 
 ![](https://github.com/eddy90cg/Tarea_2/blob/main/Anexos/Fig.4-40.png)
+
+63.Un motor de cd de <img src="https://latex.codecogs.com/svg.latex?120\&space;V" title="120\ V" /> opera a través de una caja de engranajes (figura 4-24). Si la potencia de la bomba es de <img src="https://latex.codecogs.com/svg.latex?1100\&space;W" title="1100\ W" /> , la caja de engranajes tiene una eficiencia de <img src="https://latex.codecogs.com/svg.latex?75\&space;%" title="75\ %" /> y la potencia de la entrada al motor es de <img src="https://latex.codecogs.com/svg.latex?1600\&space;W" title="1600\ W" /> , determine los caballos de potencia de salida del motor.
 
 
 
